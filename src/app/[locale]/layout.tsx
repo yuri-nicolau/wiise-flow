@@ -1,8 +1,10 @@
+// src/app/[locale]/layout.tsx
+
 import type { Metadata } from "next";
 import { DM_Sans } from "next/font/google";
 import "../globals.css";
 import { NextIntlClientProvider } from "next-intl";
-import { getMessages } from "next-intl/server"; // Importe a função correta
+import { notFound } from "next/navigation";
 
 const dmSans = DM_Sans({
 	subsets: ["latin"],
@@ -17,21 +19,36 @@ export const metadata: Metadata = {
 	},
 };
 
+export function generateStaticParams() {
+	return [{ locale: "en" }, { locale: "pt" }];
+}
+
 export default async function RootLayout({
-	// A função deve ser async
 	children,
-	params: { locale },
-}: Readonly<{
+	params,
+}: {
 	children: React.ReactNode;
 	params: { locale: string };
-}>) {
-	// Aguarda as mensagens de tradução para o locale atual
-	const messages = await getMessages();
+}) {
+	// Next.js 15.x: params já é objeto síncrono
+	const locale = params.locale;
+
+	let messages: Record<string, string>;
+	try {
+		messages = (
+			await import(
+				/* webpackChunkName: "locale-[request]" */
+				`../../../messages/${locale}.json`
+			)
+		).default;
+	} catch {
+		// se não achar o JSON, cai num 404
+		notFound();
+	}
 
 	return (
-		<html className={dmSans.variable} lang={locale}>
+		<html lang={locale} className={dmSans.variable}>
 			<body className="font-sans m-0 overflow-x-hidden bg-background text-foreground antialiased">
-				{/* Envolve os filhos com o Provider, passando locale e messages */}
 				<NextIntlClientProvider locale={locale} messages={messages}>
 					{children}
 				</NextIntlClientProvider>

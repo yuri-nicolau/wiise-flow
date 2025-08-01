@@ -3,7 +3,7 @@ import createNextIntlPlugin from "next-intl/plugin";
 
 const withNextIntl = createNextIntlPlugin(
 	// Caminho relativo para o seu arquivo de configuração
-	"./i18n.ts",
+	"./src/app/i18n.ts",
 );
 
 const nextConfig: NextConfig = {
