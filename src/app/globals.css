@@ -1,0 +1,57 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: var(--font-dm-sans), sans-serif;
+  --color-primary: rgb(0 0 0); /* Equivalente ao slate-600 */
+  --color-background: rgb(255 255 255); /* Equivalente ao white */
+  --color-background-secondary: rgb(248 249 250); /* Equivalente ao white */
+  --color-card: rgb(243 244 246); /* Equivalente ao slate-100 */
+  --color-foreground: rgb(0 0 0); /* Equivalente ao slate-600 */
+  --color-border: rgb(209 213 220); /* Equivalente ao slate-300 */
+  --color-border-secondary: rgb(229 231 235); /* Equivalente ao slate-300 */
+  --color-card-secondary: rgb(153 161 175); /* Equivalente ao slate-400 */
+  --color-primary-foreground: rgb(255 255 255); /* Equivalente ao white */
+  --color-wikki-data: rgb(2 100 204);
+  --color-wikki-vision: rgb(251 188 4);
+  --color-wikki-flow: rgb(95 1 209);
+  --color-wikki-lab: rgb(51 155 72);
+}
+
+@layer utilities {
+  /* Text utilities */
+  .text-body {
+    @apply text-gray-400 text-base font-normal leading-[1.6] md:text-lg;
+  }
+  .shadow {
+    @apply shadow-[0px_6px_12px_rgba(0,0,0,0.05)];
+  }
+  .text-highlight {
+    @apply text-foreground text-base font-bold leading-[1.6] md:text-lg;
+  }
+  .text-highlight2 {
+    @apply text-card-secondary text-base font-bold leading-[1.6] md:text-lg;
+  }
+  .text-header {
+    @apply text-foreground text-4xl font-bold leading-[1.2] md:text-5xl sm:text-6xl;
+  }
+  .text-title1 {
+    @apply text-foreground text-3xl font-bold leading-[1.2] md:text-4xl;
+  }
+  .text-title2 {
+    @apply text-foreground text-lg font-bold leading-[1.2] md:text-xl;
+  }
+  .text-title3 {
+    @apply text-gray-400 text-lg tracking-widest font-bold leading-[1.2] md:text-xl;
+  }
+  .text-title4 {
+    @apply text-foreground text-xl font-bold leading-[1.2] md:text-2xl;
+  }
+
+  /* Layout utilities */
+  .padding {
+    @apply justify-center px-8 md:px-12 lg:px-20 xl:px-28;
+  }
+  .flex-order {
+    @apply flex-col lg:flex-row;
+  }
+}
