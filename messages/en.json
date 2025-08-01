@@ -1,0 +1,145 @@
+{
+  "Header": {
+    "solution": "Solution",
+    "caseStudies": "Case Studies",
+    "contactUs": "Contact Us"
+  },
+  "Footer": {
+    "product": "Product",
+    "features": "Features",
+    "deliverables": "Deliverables",
+    "contactUs": "Contact us",
+    "reserved": "| All Rights Reserved"
+  },
+  "Hero": {
+    "title": "Decision Intelligence for Complex Well Projects",
+    "description": "WIISE offers reservoir-specific consulting that transforms your well and completion data into high-impact decisions. We simulate scenarios using your actual reservoir conditions, providing data-backed insights to reduce investment risk, increase production, and identify the most effective strategy for your operation.",
+    "button": "Contact Us"
+  },
+  "Partnership": {
+    "title": "Partnership with Petrobras",
+    "description": "Our foundational methodology was proven through a strategic joint development with Petrobras, one of the world's leading deepwater operators."
+  },
+  "Problem": {
+    "subTitle": "THE PROBLEMS WE SOLVE",
+    "title": "Bridging the Gap Between Generic Claims and Field-Specific Value",
+    "description": "By moving from assumption-based decisions to simulation-driven intelligence, we empower technical teams and asset managers to select and design the most effective operational strategies with confidence.",
+    "item1_title": "Decision making in defining acid stimulations",
+    "item1_body": "Brazil’s pre-salt carbonates are highly heterogeneous and complex. Service-provider cases show strong but selective gains—e.g., a Brazil pre-salt job reporting over 3,000 bpd uplift others achieving more than twice as much oil with 43% less acid. In one pre-salt well, the same volume/chemistry bullheaded improved skin only 27 to 23. Repeating with other technique, cut skin to 10 and doubled productivity (which highlights the need for a case-by-case analysis).",
+    "item2_title": "Complex Completions Require Case-by-Case Design",
+    "item2_body": "Service providers report that multi-zone intelligent completions (e.g., the ANP‑recognized open‑hole, three‑zone PACI‑3) increase production and ultimate recovery by up to 20%. In Mero, they reduced costs by US$10–15 million per well. While service providers specific promisses benefits like “accelerated production” and “higher recovery”, there is no universal solution. Each project requires tailored design to deliver real value.",
+    "item3_title": "Decision making in defining intelligent completions",
+    "item3_body": "Service providers promote Gravel Pack systems, such as Horizontal Open Hole wells,  with or without flow control valves, claiming +32% oil gains, fewer rig days, and over US$ 100M in savings. But results vary with reservoir complexity. In Brazil’s pre-salt, real value only emerged through customized designs and validation, not from generic, one-size-fits-all completions."
+  },
+  "Solutions": {
+    "title": "Is Your Asset Strategy Leaving Value on the Table?",
+    "description": "Our experts can help you frame the problem and identify how a targeted simulation study could quantify the upside for your specific project.",
+    "item1": "Grounded in your field model, our parameter‑sensitivity acidizing simulations convert broad service‑provider claims into per‑well, decision‑ready guidance that enhances incremental oil and minimizes acid volumes.",
+    "item2": "Simulations applied to PACI completions enable precise evaluation of zonal control strategies, maximizing productivity and reducing uncertainty in completion design.",
+    "item3": "Simulating horizontal open hole gravel pack performance enables optimized designs that boost productivity, reduce failure risk, and support more confident completion decisions."
+  },
+  "Product": {
+    "title": "Optimize your Well Projects",
+    "description": "Contact our Team to know more about our web consulting services and how we can help increase decision-making and productivity within your Well Projects.",
+    "button": "Contact Us"
+  },
+  "Features": {
+    "title": "How Our Services Reaches More Accurate Solutions",
+    "description": "Key Features and Technologies.",
+    "card1_title": "Acid Design Tailored to Reservoir and Completion",
+    "card1_body": "We simulate the sensitivity of acid type, concentration, injection rate, and bbl/ft under your specific reservoir, completion and flow conditions. Using your actual completion design, we identify the most effective parameters to maximize wormhole reach, minimize total acid volume, and improve oil recovery.",
+    "card2_title": "KPI-Based Scenario Ranking for Confident Execution",
+    "card2_body": "We compare acidizing scenarios using real field constraints and deliver decision-ready KPIs—including incremental oil, post-job skin, water cut change, acid saved, and payback—so your team can confidently select an enhanced stimulation plan and turn generic service-provider promises into field-specific results.",
+    "card3_title": "KPI-Driven and Vendor-Neutral Optimization",
+    "card3_body": "Our models produce actionable KPIs—including incremental oil and NPV—to objectively compare intelligent completion strategies. By testing different service provider technologies against your actual well conditions, we ensure data-driven design decisions instead of relying on generic performance claims.",
+    "card4_title": "Sensitivity Simulations for Technical Desicion-Making",
+    "card4_body": "We run targeted simulations under your reservoir’s specific conditions—testing ICV configuration, placement strategy, and zonal control logic—to evaluate performance across real-world flow contrasts and heterogeneity. This enables teams to identify the most effective completion design and reduce operational uncertainty.",
+    "card5_title": "Simulation-Based Sensitivity & Design",
+    "card5_body": "We simulate full-system sensitivities—across well, reservoir, and completion parameters—using your field conditions. This allows us to test OHGP strategies (with or without flow control) under realistic constraints, identifying the most effective design and avoiding guesswork.",
+    "card6_title": "Data-Backed Decisions With Performance KPIs",
+    "card6_body": "We deliver field-optimized completion recommendations supported by key technical–economic indicators: initial & sustained oil rate, water cut, NPV, and injectivity profiles. Decisions are no longer based on generic promises—but on measurable impact."
+  },
+  "CaseStudies": {
+    "title": "Case Studies and Key Articles",
+    "description": "How our solution can enhance production and make the most of smart completions",
+    "card1_title": "Cases-Backed Acidizing Optimization For Brazil’s Pre-Salt",
+    "card1_body": "Per-well design and placement can unlock more than 3,000 bpd, reduces skin, cut acid use by up to 40%, and even double production index vs. bullheading—turning heterogeneous carbonates into measurable gains when treatments are tuned case-by-case.",
+    "card2_title": "Smart Completion Optimization in Offshore Production",
+    "card2_body": "Smart completion technologies have emerged as game-changers in the Eagle Ford Shale. Using the Buzios Field as an example, financial impacts of optimized intelligent completions estimate up to 70M USD per year.",
+    "card3_title": "Financial Impact of planning Valve Positioning",
+    "card3_body": "Strategic use of valve positioning in smart completions shows gains of up to 4 Million USD per well.",
+    "learnMore": "Learn more →"
+  },
+  "Services": {
+    "subTitle": "OUR PROCESS",
+    "title": "How we Contribute",
+    "description": "We simulate real-world scenarios against your actual well design and reservoir data, quantify performance KPIs, and deliver field-specific insights. This transforms complexity and generic promises into clarity and supports confident, high-impact decisions grounded in sensitivity analysis and technical validation.",
+    "item1_title": "Actionable Engineering Insights",
+    "item1_body": "We deliver simulation-backed insights that reveal how acid or completion parameters impact production, efficiency, and recovery, before you execute.",
+    "item2_title": "Decision-Ready KPIs",
+    "item2_body": "We quantify uplift, skin, acid saved, sweep, and payback, enabling your team to compare options with hard performance metrics.",
+    "item3_title": "Expertise in Reservoir-Completion Coupling",
+    "item3_body": "We test completion and stimulation sensitivity to your reservoir’s heterogeneity, flow dynamics, and completion constraints, transforming variability into confident design."
+  },
+  "Deliverables": {
+    "title": "Our Deliverables",
+    "description_p1": "Our team will aid you by consulting services",
+    "description_strong1": "tailored to your reservoir",
+    "description_p2": "and",
+    "description_strong2": "operational needs",
+    "description_p3": ", providing simulation-based insights for intelligent completions (e.g., PACI‑3, ICVs), gravel pack systems, and acid stimulation.",
+    "description_p4": "Each engagement includes a decision-focused report with all essential KPIs, sensitivity results, and guidance for confident execution.",
+    "description_p5": "We adapt to the most common well designs and challenges faced in pre-salt and deepwater operations.",
+    "description_p6": "Contact our team to explore how we can support your next decision.",
+    "button": "Contact Us",
+    "item1_title": "Expert Guidance Throughout the Process",
+    "item1_body": "During our consulting service, you’ll have direct access to our technical team, ensuring alignment, clarification of results, and support until your objectives are met.",
+    "item2_title": "Decision-Focused Technical Reports",
+    "item2_body": "Each report is tailored to your specific case, delivering detailed KPIs and performance parameters that support confident decision-making."
+  },
+  "Quote": {
+    "quote": "« The development of our services covers several areas of expertise - computer simulations, optimization, artificial intelligence and software engineering. For WIISE, it is a unique opportunity to contribute to the creation of great impact, interdisciplinarity and high technological challenge. »"
+  },
+  "WIISEs": {
+    "subTitle": "THE PROBLEMS WE SOLVE",
+    "title": "Which WIISE do you belong to?",
+    "description": "Discover our solutions",
+    "item1": "Well Integrity",
+    "item2": "Geosciences",
+    "item3": "Well Productivity",
+    "item4": "Digital Rocks"
+  },
+  "ContactForm": {
+    "title": "Contact us for more!",
+    "form_title": "Contact us",
+    "form_description": "Find out more about WIISE Flow",
+    "contact": "Contact",
+    "media": "Press / Media / Partnership",
+    "linkedin": "LinkedIn"
+  },
+  "CallToAction": {
+    "title": "Contact our Experts!",
+    "button": "Contact Us",
+    "newsletter": "Join the 10,000 users in our newsletter"
+  },
+  "CaseStudy1": {
+    "title": "Matrix Acidizing Optimization in Offshore Carbonates",
+    "subTitle": "Cases-backed acidizing optimization for Brazil's pre-salt",
+    "content": "<p>Deepwater production in Brazil's pre-salt carbonates is constrained by extreme heterogeneity, permeability can vary expressively within a single interval, so conventional bullheading often stimulates only the highest-permeability streaks and leaves large sections untreated. In a documented pre-salt well, about 600 bbl of 15% HCl bullheaded reduced skin only by 11%, illustrating how coverage, not just chemistry, limits results in these reservoirs. <br/><br/>Against this backdrop, recent field applications have adopted engineered, single-phase delayed/retarded acid systems coupled with high-rate matrix placement and on-the-fly mixing to extend wormhole penetration and streamline execution. In a Brazil pre-salt carbonate well, one such design delivered more then 3,000 bpd oil and reduce expressively the skin. <br/><br/>In parallel, extended-contact stimulation services using single-phase retarded acid have shown that comparable or superior production can be achieved with significantly less raw acid while reducing emulsion risk and location footprint. A published case reported 2 times higher production with 40% less acid in a carbonate well. <br/><br/>In the same pre-salt well cited above, repeating the treatment with the same acid and volume but switching from bullheading to coiled-tubing placement improved distribution along the entire perforated interval, reduced skin about 60%, and doubled the productivity index, a clear evidence that the stimulation method and design choices can dominate outcomes in heterogeneous carbonates. <br/><br/>Taken together, these cases show a consistent pattern: when the matrix acidizing project are made for each well, the technique can deliver higher financial gains. The practical message for offshore carbonate developments is straightforward: acid programs are not one-size-fits-all; value comes from engineering the chemistry, the rate and the placement to the specific well and interval. <br/><br/>In complex pre-salt settings, this approach translates into a more sustainable and economically robust operation: deeper reservoir contact with less chemical, fewer remedial interventions, and faster learning cycles across campaigns. By grounding treatment design in field evidence—spanning high-rate single-phase systems, fit-for-purpose placement, and documented case results—operators can move from generic recipes to case-by-case, parameter-sensitive decisions that maximize production efficiency and long-term value.</p>"
+  },
+  "CaseStudy2": {
+    "title": "Financial Impact of planning Valve Positioning",
+    "subTitle": "Strategic use of valve positioning in smart completions shows gains of up to 4 Million USD per well.",
+    "content": "<p>In heterogeneous reservoirs like those found in the Brazilian pre-salt offshore fields, managing variable reservoir properties poses significant challenges for oil and gas production. The complex geological characteristics of these reservoirs often lead to uneven fluid distribution, affecting well productivity and recovery efficiency. Intelligent Well Completion (IWC) technology, which enables real-time downhole monitoring and remote valve control, presents a promising solution to optimize zonal flow. By dynamically adjusting production parameters, IWC can enhance reservoir management, leading to improved economic outcomes and extended field life. <br/><br/>Studies such as <a>Schaefer, 2020</a> compare the performance of conventional completions with an optimized smart completion approach. The baseline conventional completion yields a Net Present Value (NPV) of approximately $65.41 million USD. In contrast, the implementation of optimized inflow control valve (ICV) strategies seeks to maximize NPV while maintaining operational efficiency. With a platform investment set at $175 million USD for a scaled five-spot configuration, the financial viability of intelligent completions becomes a critical factor in decision-making. <br/><br/>Simulation results demonstrate the significant impact of optimized ICV control strategies on production efficiency and financial performance. Compared to the baseline NPV of $65.41 million USD, the best-performing ICV strategy achieves an NPV of $69.63 million USD, reflecting a 6.45% improvement for a single producing well. This increase highlights the potential for substantial economic gains when smart completions are carefully planned and executed. Moreover, under more favorable economic conditions and with multiple wells in operation, the methodology could lead to multi-million-dollar enhancements in overall project profitability. <br/><br/>One of the key advantages of the proposed methodology is its ability to reduce water production while maximizing hydrocarbon recovery. By implementing dynamic valve adjustments, operators can mitigate the negative impact of early water breakthrough, which is a common issue in highly heterogeneous reservoirs. This proactive approach extends the productive lifespan of wells and reduces the need for costly water handling and disposal operations, further improving economic feasibility. <br/><br/>Another critical aspect of the study is the role of advanced reservoir simulation software in optimizing valve placement and control strategies. Traditional completion designs often rely on static models that fail to account for real-time reservoir changes. However, by integrating intelligent software with machine learning algorithms such as PSO, engineers can develop adaptive completion strategies that respond dynamically to reservoir conditions. This capability ensures that production remains optimized even in the face of unpredictable geological variations. <br/><br/>As energy companies seek to maximize recovery factors while minimizing operational costs, intelligent completions powered by advanced software will become an increasingly vital component of modern reservoir management strategies. The ability to accurately estimate optimal valve positioning not only improves short-term financial returns but also contributes to long-term sustainability by enhancing resource utilization and reducing environmental impact. <br/><br/>By leveraging real-time data analysis, machine learning, and advanced numerical models, operators can achieve significant performance improvements over conventional completion methods. As the oil and gas industry continues to embrace digital transformation, the adoption of such advanced technologies will play a crucial role in maintaining competitiveness and maximizing asset value in complex reservoir settings.</p>"
+  },
+  "CaseStudy3": {
+    "title": "Smart Completion Optimization in Offshore Production",
+    "subTitle": "Smart completion technologies have emerged as game-changers in the Eagle Ford Shale, transforming traditional well operations into sophisticated, data-driven production systems.",
+    "content": "<p>Deepwater offshore oil production faces significant challenges, including managing production in multiple zones of the reservoir, the need to maximize the recovery factor and reducing costly interventions. In this context, the adoption of intelligent completions integrated with advanced flow estimation software by zone has stood out as an effective solution for optimizing production and reducing operating costs. <br/><br/>Smart completions are equipped with flow control valves and sensors distributed throughout the well, allowing continuous monitoring of reservoir conditions. However, accurately interpreting the data collected requires advanced analytical tools. Specialized software, using numerical modeling and machine learning, makes it possible to estimate the individual flow of each producing zone and adjust production control in real time, increasing operational efficiency. <br/><br/>The implementation of this technology makes it possible to optimize flow distribution throughout the well, minimizing problems such as water and gas conification. As a result, there is a significant improvement in the efficiency of draining the reservoir, reducing the need for mechanical interventions and extending the useful life of the wells. In addition, the ability to predict and mitigate problems before they compromise production contributes to the sustainability and profitability of the operation. <br/><br/>Another important benefit is improved decision-making, since the detailed visualization of flows by zone allows dynamic adjustments to the production strategy. Operators can prioritize more productive zones and close others that present a high risk of unwanted production, resulting in a better economic balance for the enterprise and maximizing the return on investment. <br/><br/>Case studies indicate that companies results such as increasing productivity by more than 20% and reducing water injection by 60% by injector wells have already been observed in pilot studies conducted around the world, due to a robust forecast of flow rates by zone that has allowed better decisions to be made about valve configuration in order to slow down the advance of water from injector wells and increase recovery in oil-rich zones. Using the Buzios Field as an example, financial impacts of optimized intelligent completions estimate up to 70M USD per year. <br/><br/>In reservoirs with a high gas-oil ratio, the solution can also be particularly beneficial. Better valve control results in production with a higher concentration of oil by allowing more precise control of gas advance, which causes increases of up to 40% in oil production that can result in millions of barrels in a few years. <br/><br/>The improved management of intelligent completions, supported by specialized software, represents a strategic evolution for deepwater offshore production. The ability to estimate flow by zone and dynamically adjust the operation not only maximizes production efficiency, but also promotes more sustainable and economically viable exploitation of oil reservoirs in complex environments, as demonstrated in technical literature and real industry applications.</p>"
+  },
+  "CaseStudy4": {
+    "title": "The Disadvantages of not Controlling Production",
+    "subTitle": "Cost savings from reduced well interventions, productivity improvement and accelerated production",
+    "content": "<p>Biosteering involves the real-time analysis of drilling cuttings to monitor the wellbore's position relative to geological formations. By identifying microfossils and their assemblages, geoscientists can determine the stratigraphic depth and lateral position of the drill bit. This information allows for immediate adjustments to the drilling trajectory, ensuring the well remains within the desired reservoir zone. <br/><br/>In horizontal and directional drilling, especially within thin or complex reservoirs, maintaining the wellbore within the target formation is challenging. Biosteering provides a cost-effective and efficient solution by offering high-resolution stratigraphic data that can be integrated with other real-time measurements, such as Logging While Drilling (LWD) data. This integration facilitates informed decision-making, optimizing well placement and enhancing reservoir contact. <br/><br/>By accurately tracking the wellbore's position, biosteering maximizes exposure to productive reservoir zones, potentially increasing hydrocarbon recovery. Real-time monitoring allows for immediate corrective actions, minimizing the risk of drilling through non-productive zones and reducing formation damage. Compared to deploying multiple LWD tools, biosteering offers a more economical alternative for stratigraphic monitoring. <br/><br/>Biosteering has a notably positive impact by enabling real‑time adjustments of the drilling trajectory, which significantly enhances reservoir contact and maximizes hydrocarbon recovery. This technology leverages live geological data and downhole measurements to steer the drill bit into the most productive zones, reducing drilling uncertainty and avoiding non‐productive intervals. As a result, biosteering not only improves drilling efficiency and lowers operational risks but also contributes to substantial economic gains by optimizing well placement, shortening drilling time, and ultimately boosting production rates and overall project profitability <a>(F. Alshuhail et al, 2023)</a>. <br/><br/>Integrating biostratigraphic analysis into real-time drilling operations through bio-steering is a valuable technique for precise well placement, especially in complex reservoir environments. Its ability to provide immediate stratigraphic information enhances operational efficiency, reduces risks, and contributes to the overall success of drilling projects. Most of these solutions rely on embarked specialists to conduct real analyses, and tools such as the one provided by WIKKI Vision allow to enhance response time and make the best decision faster, reducing risk and aiding specialists with a fast response AI to aid in identification and classification of structures.</p>"
+  }
+}
