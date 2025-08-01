@@ -3,10 +3,13 @@
 import { getRequestConfig } from "next-intl/server";
 
 export default getRequestConfig(async ({ locale }) => {
-	const messages = (await import(`../../messages/${locale}.json`)).default;
+	// Validate locale exists
+	if (!locale || !["pt", "en"].includes(locale)) {
+		// Add your supported locales
+		throw new Error(`Invalid locale: ${locale}`);
+	}
 
-	return {
-		locale,
-		messages,
-	};
+	// Dynamic import with validation
+	const messages = (await import(`../../messages/${locale}.json`)).default;
+	return { messages };
 });

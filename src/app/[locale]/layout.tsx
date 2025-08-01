@@ -31,7 +31,7 @@ export default async function RootLayout({
 	params: { locale: string };
 }) {
 	// Next.js 15.x: params já é objeto síncrono
-	const locale = params.locale;
+	const { locale } = params;
 
 	let messages: Record<string, string>;
 	try {
