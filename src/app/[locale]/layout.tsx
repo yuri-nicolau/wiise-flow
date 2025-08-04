@@ -30,7 +30,7 @@ export default async function RootLayout({
 	children: React.ReactNode;
 	params: { locale: string };
 }) {
-	// Next.js 15.x: params já é objeto síncrono
+	// Correção: `params` agora é tratado de forma síncrona no Next.js 15
 	const { locale } = params;
 
 	let messages: Record<string, string>;
