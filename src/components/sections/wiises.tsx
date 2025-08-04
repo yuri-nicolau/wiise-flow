@@ -23,7 +23,7 @@ export default function WIISEs({ className = '' }: CustomProps) {
 					<p className='text-body'>Discover our solutions</p>
 				</div>
 				<div className='flex flex-wrap gap-6 xl:flex-nowrap justify-center'>
-					<WIISEItem body='Well Integrity' link='https://wiisedata.com'>
+					<WIISEItem body='Well Integrity' link='https://wiisewell.com'>
 						<WIISEDataLogo className='mx-10 mt-8 mb-6' />
 					</WIISEItem>
 					<WIISEItem body='Geosciences' link='https://wiisevision.com'>
